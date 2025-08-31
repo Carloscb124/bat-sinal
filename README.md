@@ -25,7 +25,7 @@ Este projeto faz parte do **#DesafioDoFelipao - DIO**.
 ## 📱 Capturas de Tela
 | Tela Inicial | Formulário |
 |--------------|------------|
-| <img src="./images/tela1.jpeg" width="250"/> | <img src="./images/tela2.jpeg" width="250"/> |
+| <img src="assets/tela1.jpeg" width="250"/> | <img src="assets/tela2.jpeg" width="250"/> |
 
 ---
 
