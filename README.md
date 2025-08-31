@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/batman-logo.png" width="200" alt="Bat-Sinal" />
+  <img src="assets/batman-logo3.png" width="200" alt="Bat-Sinal" />
 </div>
 
 # 🦇 Bat-Sinal App
